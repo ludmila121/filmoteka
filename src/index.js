@@ -1,5 +1,5 @@
 import './sass/main.scss';
-import '../node_modules/@fortawesome/fontawesome-free/js/solid.min';
+/* import '../node_modules/@fortawesome/fontawesome-free/js/solid.min';
 import '../node_modules/@fortawesome/fontawesome-free/js/brands.min';
 import '../node_modules/@fortawesome/fontawesome-free/js/fontawesome.min';
 import './js/fetch_api';
@@ -24,3 +24,4 @@ import './js/language';
 import './js/render_footer_modal';
 import './js/changeOfTheme';
 import './js/slider_glide';
+ */
